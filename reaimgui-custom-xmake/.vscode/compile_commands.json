@@ -1,0 +1,6 @@
+[
+{
+  "directory": "C:\\Users\\rayga\\Projects\\reaimgui-custom-xmake",
+  "arguments": ["C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/std:c++17", "/I", "..\\reaimgui\\vendor", "/DBOOST_ALL_NO_LIB", "/IC:\\Users\\rayga\\AppData\\Local\\.xmake\\packages\\b\\boost\\1.75.0\\20e15469b6ae4d32afa35bcad81610ef\\include", "/IC:\\Users\\rayga\\AppData\\Local\\.xmake\\packages\\i\\imgui\\v1.81\\b4956e216dc5424f96bc383bc2a0b8ce\\include", "/EHsc", "/Fobuild\\.objs\\reaimgui-custom\\windows\\x64\\release\\src\\main.cpp.obj", "src\\main.cpp"],
+  "file": "src\\main.cpp"
+}]
